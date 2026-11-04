@@ -30,6 +30,6 @@ Fabric mods I build and maintain, mostly to make my friends' modpacks play nice 
 
 ## Design
 
-- **[The streamer: a designer's assistant in disguise](https://heetstudio.fr/livreblanc)** — White paper (in French) based on research with 16 streamers.
+- **[The streamer: a designer's assistant in disguise](https://heetstudio.fr/livreblanc)** <br> White paper (in French) based on research with 16 streamers.
 
 **[See my portfolio →](https://heetstudio.fr)**
