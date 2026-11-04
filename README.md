@@ -20,8 +20,6 @@ Finishing a Master's in UX as an apprentice · based in Toulouse, France · **op
 
 ## Minecraft mods
 
-Fabric mods I build and maintain, mostly to make my friends' modpacks play nice together.
-
 - **[Control Mob Spawns](https://github.com/HeetroNoft/Control-Mob-Spawns)** — Ban mobs and tweak spawn rates, caps and despawning from a clean in-game menu.
 - **[Handicap Voice Compat](https://github.com/HeetroNoft/Handicap-Voice-Compat)** — Makes Handicap's mute and deafness effects actually apply in Simple Voice Chat.
 - **[E4mc Voice Compat](https://github.com/HeetroNoft/E4mc-Voice-Compat)** — Gets Simple Voice Chat working for players who join through e4mc.
