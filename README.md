@@ -14,8 +14,8 @@ Finishing a Master's in UX as an apprentice · based in Toulouse, France · **op
 
 ## Projects
 
-- **[StreamGrid](https://heetstudio.fr/streamgrid/)** — Watch several Twitch streams at once, in a grid you can arrange however you like.
-- **[ZeGuessr](https://heetstudio.fr/zeguessr-discord)** — A guessing game Discord bot, powered by Supabase.
+- <img src="assets/streamgrid.png" width="20" height="20" align="absmiddle"> **[StreamGrid](https://heetstudio.fr/streamgrid/)** — Watch several Twitch streams at once, in a grid you can arrange however you like.
+- <img src="assets/zeguessr.png" width="20" height="20" align="absmiddle"> **[ZeGuessr](https://heetstudio.fr/zeguessr-discord)** — A guessing game Discord bot, powered by Supabase.
 - **[Playnite Better RichPresence](https://github.com/HeetroNoft/Playnite-Better-RichPresence)** — A Playnite extension that replaces the built-in Discord Rich Presence.
 
 ## Minecraft mods
