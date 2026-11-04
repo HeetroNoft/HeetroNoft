@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Lucas 👋
+# Hey, I'm Heet 👋
 
 UX/UI designer who also codes what he designs (React / Next.js).<br>
 Finishing a Master's in UX as an apprentice · based in Toulouse, France · **open to a junior UX/UI designer role**.
