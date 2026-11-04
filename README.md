@@ -14,9 +14,9 @@ Finishing a Master's in UX as an apprentice · based in Toulouse, France · **op
 ## Projects
 
 - <img src="assets/img/streamgrid.png" width="20" height="20" align="absmiddle"> **[StreamGrid](https://heetstudio.fr/streamgrid/)** <br> Watch several Twitch streams at once, in a grid you can arrange however you like.
+- <img src="assets/img/steelseries-compagnon.png" width="20" height="20" align="absmiddle"> **[SteelSeries Compagnon](https://heetstudio.fr/steelseries-compagnon)** <br> A Stream Deck plugin that controls SteelSeries Sonar, with each button showing Sonar's live state.
 - <img src="assets/img/zeguessr.png" width="20" height="20" align="absmiddle"> **[ZeGuessr](https://heetstudio.fr/zeguessr-discord)** <br> A guessing game Discord bot, powered by Supabase.
 - **[Playnite Better RichPresence](https://github.com/HeetroNoft/Playnite-Better-RichPresence)** <br> A Playnite extension that replaces the built-in Discord Rich Presence.
-- <img src="assets/img/steelseries-compagnon.png" width="20" height="20" align="absmiddle"> **[SteelSeries Compagnon](https://heetstudio.fr/steelseries-compagnon)** <br> A Stream Deck plugin that controls SteelSeries Sonar, with each button showing Sonar's live state.
 - **[Claude Mods](https://github.com/HeetroNoft/claude-mods)** <br> Claude Code mods: a pixel-art office where each session works at its own desk, and a cockpit band that shows each turn's plan and progress.
 
 ## Minecraft mods
@@ -27,7 +27,7 @@ Fabric mods I build and maintain, mostly to make my friends' modpacks play nice 
 - <img src="assets/img/handicap-voice-compat.png" width="20" height="20" align="absmiddle"> **[Handicap Voice Compat](https://github.com/HeetroNoft/Handicap-Voice-Compat)** <a href="https://www.curseforge.com/minecraft/mc-mods/handicap-voice-compatibility"><img src="https://img.shields.io/curseforge/dt/1770415?logo=curseforge&logoColor=white&label=CurseForge&color=F16436" align="absmiddle"></a> <br> Makes Handicap's mute and deafness effects actually apply in Simple Voice Chat.
 - <img src="assets/img/e4mc-voice-compat.png" width="20" height="20" align="absmiddle"> **[E4mc Voice Compat](https://github.com/HeetroNoft/E4mc-Voice-Compat)** <a href="https://www.curseforge.com/minecraft/mc-mods/e4mc-voice-compatibility"><img src="https://img.shields.io/curseforge/dt/1770739?logo=curseforge&logoColor=white&label=CurseForge&color=F16436" align="absmiddle"></a> <br> Gets Simple Voice Chat working for players who join through e4mc.
 - <img src="assets/img/infernal-mobs-fabric.png" width="20" height="20" align="absmiddle"> **[Infernal Mobs (Fabric)](https://github.com/HeetroNoft/InfernalMobs-Fabric)** <a href="https://www.curseforge.com/minecraft/mc-mods/infernal-mobs-for-fabric"><img src="https://img.shields.io/curseforge/dt/1770451?logo=curseforge&logoColor=white&label=CurseForge&color=F16436" align="absmiddle"></a> <br> Fabric port of AtomicStryker's mod: Diablo-style elite mobs with loot.
-- **[Custom Mob Attributes](https://github.com/HeetroNoft/Custom-Mob-Attributes)** <a href="https://www.curseforge.com/minecraft/mc-mods/infernal-mobs-for-fabric"><img src="https://img.shields.io/badge/Fork-grey" align="absmiddle"></a> <br> Fork that lets you configure mob health, damage, speed and scale.
+- **[Custom Mob Attributes](https://github.com/HeetroNoft/Custom-Mob-Attributes)** <a href="https://github.com/Fneifnox/custom-mob-attributes"><img src="https://img.shields.io/badge/Fneifnox's Fork-grey" align="absmiddle"></a> <br> Fork that lets you configure mob health, damage, speed and scale.
 
 ## Design
 
