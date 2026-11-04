@@ -1,12 +1,16 @@
+<div align="center">
+
 # Hey, I'm Lucas 👋
 
-UX/UI designer who also codes what he designs (React / Next.js).
+UX/UI designer who also codes what he designs (React / Next.js).<br>
 Finishing a Master's in UX as an apprentice · based in Toulouse, France · **open to a junior UX/UI designer role**.
 
 [![Portfolio](https://img.shields.io/badge/heetstudio.fr-black)](https://heetstudio.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bize/)
 [![Twitch](https://img.shields.io/badge/Twitch-@HeetroNoft-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/heetronoft)
 [![White paper](https://img.shields.io/badge/White_paper-The_streamer-FFFFFF?logo=readthedocs&logoColor=black)](https://heetstudio.fr/livreblanc)
+
+</div>
 
 ## Projects
 
