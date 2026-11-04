@@ -5,7 +5,7 @@ Finishing a Master's in UX as an apprentice · based in Toulouse, France · **op
 
 [![Portfolio](https://img.shields.io/badge/heetstudio.fr-black?logo=googlechrome&logoColor=white)](https://heetstudio.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FYOUR--HANDLE-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Twitch](https://img.shields.io/badge/Twitch-@HeetroNoft?logo=twitch&logoColor=white)](https://twitch.tv/heetronoft)
+[![Twitch](https://img.shields.io/badge/Twitch-@HeetroNoft-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/heetronoft)
 [![White paper](https://img.shields.io/badge/White_paper-The_streamer-F2B705?logo=readthedocs&logoColor=white)](https://heetstudio.fr/livreblanc)
 
 ## Projects
