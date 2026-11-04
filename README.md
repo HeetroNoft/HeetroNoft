@@ -11,7 +11,7 @@ Finishing a Master's in UX as an apprentice · based in Toulouse, France · **op
 ## Projects
 
 - **[StreamGrid](https://heetstudio.fr/streamgrid/)** — Watch several Twitch streams at once, in a grid you can arrange however you like.
-- **[ZeGuessr](https://github.com/HeetroNoft/ZeGuessr)** — A guessing game Discord bot, powered by Supabase.
+- **[ZeGuessr](https://heetstudio.fr/zeguessr-discord)** — A guessing game Discord bot, powered by Supabase.
 
 ## Design
 
