@@ -24,8 +24,7 @@ Fabric mods I build and maintain, mostly to make my friends' modpacks play nice 
  
 - **[Control Mob Spawns](https://github.com/HeetroNoft/Control-Mob-Spawns)** — Ban mobs and tweak spawn rates, caps and despawning from a clean in-game menu.
   [![CurseForge](https://img.shields.io/curseforge/dt/ID_CONTROL_MOB_SPAWNS?logo=curseforge&logoColor=white&label=CurseForge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/SLUG_CONTROL_MOB_SPAWNS)
-- **[Handicap Voice Compat](https://github.com/HeetroNoft/Handicap-Voice-Compat)** — Makes Handicap's mute and deafness effects actually apply in Simple Voice Chat.
-  [![CurseForge](https://img.shields.io/curseforge/dt/1770415?logo=curseforge&logoColor=white&label=CurseForge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/handicap-voice-compatibility)
+- **[Handicap Voice Compat](https://github.com/HeetroNoft/Handicap-Voice-Compat)** [![CurseForge](https://img.shields.io/curseforge/dt/1770415?logo=curseforge&logoColor=white&label=CurseForge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/handicap-voice-compatibility) — Makes Handicap's mute and deafness effects actually apply in Simple Voice Chat.
 - **[E4mc Voice Compat](https://github.com/HeetroNoft/E4mc-Voice-Compat)** — Gets Simple Voice Chat working for players who join through e4mc.
   [![CurseForge](https://img.shields.io/curseforge/dt/ID_E4MC_VOICE_COMPAT?logo=curseforge&logoColor=white&label=CurseForge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/SLUG_E4MC_VOICE_COMPAT)
 - **[Infernal Mobs (Fabric)](https://github.com/HeetroNoft/InfernalMobs-Fabric)** — Fabric port of AtomicStryker's mod: Diablo-style elite mobs with loot.
