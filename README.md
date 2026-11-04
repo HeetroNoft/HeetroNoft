@@ -16,6 +16,8 @@ Finishing a Master's in UX as an apprentice · based in Toulouse, France · **op
 - <img src="assets/img/streamgrid.png" width="20" height="20" align="absmiddle"> **[StreamGrid](https://heetstudio.fr/streamgrid/)** <br> Watch several Twitch streams at once, in a grid you can arrange however you like.
 - <img src="assets/img/zeguessr.png" width="20" height="20" align="absmiddle"> **[ZeGuessr](https://heetstudio.fr/zeguessr-discord)** <br> A guessing game Discord bot, powered by Supabase.
 - **[Playnite Better RichPresence](https://github.com/HeetroNoft/Playnite-Better-RichPresence)** <br> A Playnite extension that replaces the built-in Discord Rich Presence.
+- <img src="assets/img/steelseries-compagnon.png" width="20" height="20" align="absmiddle"> **[SteelSeries Compagnon](https://heetstudio.fr/steelseries-compagnon)** <br> A Stream Deck plugin that controls SteelSeries Sonar, with each button showing Sonar's live state.
+- **[Claude Mods](https://github.com/HeetroNoft/claude-mods)** <br> Claude Code mods: a pixel-art office where each session works at its own desk, and a cockpit band that shows each turn's plan and progress.
 
 ## Minecraft mods
 
