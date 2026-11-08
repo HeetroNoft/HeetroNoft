@@ -3,7 +3,7 @@
 # Hey, I'm Heet 👋
 
 UX/UI designer who also codes what he designs (React / Next.js).<br>
-Finishing a Master's in UX as an apprentice · based in Toulouse, France · **open to a junior UX/UI designer role**.
+Master's in UX, completed as an apprentice · based in Toulouse, France · **open to a junior UX/UI designer role**.
 
 [![Portfolio](https://img.shields.io/badge/heetstudio.fr-black)](https://heetstudio.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/bize/)
